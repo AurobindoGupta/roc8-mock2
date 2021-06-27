@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { useState } from "react";
 const Dashboard=()=>{
     let a = JSON.parse(localStorage.getItem('vId'));
+    
 
     return(
         <div>
@@ -14,7 +15,7 @@ const Dashboard=()=>{
                     <ul>
                         <li><button>Login</button></li>
                         <li><button>More</button></li>
-                        <li><button><Link to="/cart">cart({a.length})</Link></button></li>
+                        <li><button><Link to="/cart">cart()</Link></button></li>
                     </ul>
                     </div>
                 </div>
