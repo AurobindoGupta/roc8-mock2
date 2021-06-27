@@ -1,0 +1,50 @@
+[
+   {
+       "id":0,
+       "product": "shoes",
+       "company":"afrojack",
+       "cost": 2099,
+       "gender":"unisex",
+       "url":"https://images-na.ssl-images-amazon.com/images/I/41Leu3gBUFL.jpg"
+   } ,
+   {
+    "id":1,
+    "product": "cup",
+    "company":"Logimart",
+    "cost": 99,
+    "gender":"unisex",
+    "url":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSY4dobaQglXSw6VZ5zgF67sBJ1pXewSqhe2YRcjiZGk6oaWSssB20Z2-2A2Q-yf5GgadWqt4xICmGRj_I30yBaJTY31Qu481N9K-G2ke03&usqp=CAE"
+   },
+   {
+    "id":3,
+    "product": "cap",
+    "company":"Polecaz",
+    "cost": 999,
+    "gender":"unisex",
+    "url":"https://contents.mediadecathlon.com/p1332301/k$70e57632c993207fa034ac18ee754233/travel-trekking-cap-travel-500-brown.jpg?&f=x"
+   },
+   {
+    "id":4,
+    "product": "tshirt",
+    "company":"slone",
+    "cost": 6544,
+    "gender":"men",
+    "url":"https://5.imimg.com/data5/YX/OO/TA/ANDROID-108727015/product-jpeg-500x500.jpg"
+   },
+   {
+    "id":5,
+    "product": "tshirt",
+    "company":"Theyyam",
+    "cost": 1099,
+    "gender":"men",
+    "url":"https://www.mydesignation.com/wp-content/uploads/2020/08/theyyam-tshirt-mydesignation-image-.jpg"
+   },
+   {
+    "id":6,
+    "product": "pants",
+    "company":"Lafuma",
+    "cost": 4099,
+    "gender":"unisex",
+    "url":"https://www.lafuma.com/media/catalog/product/cache/18/image/640x/9df78eab33525d08d6e5fb8d27136e95/l/f/lfv11318-2768-pantalon-homme-access-cargo-pants-m-beige_2.jpg"
+   }
+]
